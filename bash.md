@@ -24,7 +24,7 @@
 | bg | Background execution|
 | break | Break from loop statements|
 | cd | Change directories|
-| continu Resume a program loop|
+| continue | Resume a program loop|
 | echo | Display output|
 | eval | Evaluate arguments|
 | exec | Execute a new shell|
