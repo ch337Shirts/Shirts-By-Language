@@ -4,7 +4,7 @@
 | >> | Append to file|
 | < | Redirect input|
 | << | "Here" document (redirect input)|
-| `|` | Pipe output|
+| &#124; | Pipe output|
 | & | Run process in background.|
 | ; | Separate commands on same line|
 | * | Match any character(s) in filename|
