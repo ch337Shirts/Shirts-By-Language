@@ -1,5 +1,5 @@
 | Command | Description |
-| :---: | :---: |
+| :--- | :--- |
 | > | Redirect output|
 | >> | Append to file|
 | < | Redirect input|
@@ -34,7 +34,7 @@
 | newgrp | Change to a new group|
 | shift | Shift positional parameters|
 | stop | Suspend a background job|
-| suspend Suspend a foreground job|
+| suspend | Suspend a foreground job|
 | time | Time a command|
 | umask | Set or list file permissions|
 | unset | Erase variable or function definitions|
