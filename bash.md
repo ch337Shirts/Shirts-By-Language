@@ -11,7 +11,7 @@
 | ? | Match single character in filename|
 | [ ] | Match any characters enclosed|
 | ( ) | Execute in subshell|
-| ` ` | Substitute output of enclosed command|
+| &#96; &#96; | Substitute output of enclosed command|
 | " " | Partial quote (allows variable and command expansion)|
 | ' ' | Full quote (no expansion)|
 | \ | Quote following character|
